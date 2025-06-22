@@ -4,7 +4,7 @@
  build a restfull api for my shoppyglobe application
 
 ## Github Repository link
-https://github.com/PrajapatiVikrant/ShoppyGlobeBackend
+https://github.com/SathishS24d/backEnd.git
 
 ## Freatures
 
